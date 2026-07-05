@@ -57,3 +57,17 @@ Disclaimer
 This repository is intended for defensive cybersecurity purposes only.
 
 False positives may occur. Users should validate indicators before enforcing production security policies.
+
+Future Roadmap
+IPv6 Feed
+Domain IOC Feed
+URL IOC Feed
+C2 Feed
+Malware Feed
+TOR Exit Node Feed
+Ransomware Feed
+Botnet Feed
+ASN Reputation Feed
+Daily Automatic Updates
+STIX/TAXII Support
+
